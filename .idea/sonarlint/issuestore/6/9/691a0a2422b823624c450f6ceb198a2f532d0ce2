@@ -1,0 +1,18 @@
+
+ú	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰‹Ä∆8ü∆≤¶ê2J$ee0982ad-731a-443e-a9e3-5e7de64d3d36
+~	java:S125"<This block of commented-out lines of code should be removed.(·ÉÁ–8™∆≤¶ê2J$fbba3c19-ca35-4a82-bb69-0d4b330022d7
+}	java:S125"<This block of commented-out lines of code should be removed.(ü˙Ω8™∆≤¶ê2J$ea3cf47a-7d0e-4257-bf6d-a11a4d397d31
+~	java:S125"<This block of commented-out lines of code should be removed.(˘ïÁÑ8™∆≤¶ê2J$989993d1-2206-4cd0-a3e0-aaf3b6e629c6
+~	java:S125"<This block of commented-out lines of code should be removed.(´∏—8™∆≤¶ê2J$7eebd431-3e11-4d3d-8cfb-c10c72cb23e2
+É	java:S125$"<This block of commented-out lines of code should be removed.(ÙÇõµ˝ˇˇˇˇ8™∆≤¶ê2J$7ac9cb83-82f5-4969-ac83-2704cf26f01c
+~	java:S125/"<This block of commented-out lines of code should be removed.(ë‹„´8ØÄæ¶ê2J$da7a9767-7036-4770-904c-e7513f801124
+â
+java:S16127"AReplace this lambda with method reference 'CharSequence::length'.(Ø‚„‘˛ˇˇˇˇ8≥Äæ¶ê2J$e6cde767-dd3a-4fd4-a96f-8bad2c7f6df8
+r	java:S106:"+Replace this use of System.out by a logger.(é“øÏ¯ˇˇˇˇ8˝°Ω¶ê2J$d04fc080-7cd4-408c-ae4c-e9be3a1c31f8
+~	java:S125<"<This block of commented-out lines of code should be removed.(Ω¥´Ω8˛°Ω¶ê2J$51ada518-5ab7-44eb-9ccf-3cbd93437d7f
+É	java:S125O"<This block of commented-out lines of code should be removed.(òﬁ £˝ˇˇˇˇ8±∆≤¶ê2J$449236ff-fe37-4867-a1ef-29e6dcad8696
+r
+java:S1128"*Remove this unused import 'java.util.Set'.(ˆ≤Ñ§˛ˇˇˇˇ8∏Äæ¶ê2J$2e476583-6c27-4d69-9eb2-e44dcf8f78ef
+w
+java:S1128
+"4Remove this unused import 'java.util.stream.Stream'.(Û˜éî8πÄæ¶ê2J$2fea1565-d812-4652-9199-270b2fcf9c92

@@ -1,0 +1,19 @@
+
+ú	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰‹Ä∆8áﬂ˘§ê2J$3c0fb612-725f-4cd7-b23a-cb5f822c8271
+X	java:S125"<This block of commented-out lines of code should be removed.(·ÉÁ–8Ã…¢•ê2
+}	java:S125"<This block of commented-out lines of code should be removed.(ü˙Ω8Ú≤†•ê2J$b25d7647-f0ba-4ec8-b7d4-15d283a5bccb
+r	java:S106"+Replace this use of System.out by a logger.(¶—˙œ˘ˇˇˇˇ8öﬂ˘§ê2J$9c018393-8824-4373-a249-08af96dd58f0
+~	java:S125"<This block of commented-out lines of code should be removed.(´∏—8Ë˙†•ê2J$d23f5153-841d-47e3-a9a5-68eceb89e53a
+~	java:S125#"<This block of commented-out lines of code should be removed.(ØÊ∞¶8íﬂ˘§ê2J$e44d7a16-661b-4f2b-b1ff-62e48d9614e9
+É	java:S125B"<This block of commented-out lines of code should be removed.(òﬁ £˝ˇˇˇˇ8·ë¢•ê2J$48e4a7bf-f67b-4427-9b2a-301cb1098856
+M
+java:S1128"+Remove this unused import 'java.util.List'.(’Î±ƒ¯ˇˇˇˇ8–…¢•ê2
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(ºËΩ“˛ˇˇˇˇ8—…¢•ê2
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ˆ≤Ñ§˛ˇˇˇˇ8—…¢•ê2
+Z
+java:S1128	"8Remove this unused import 'java.util.stream.Collectors'.(”Û∫¥˙ˇˇˇˇ8—…¢•ê2
+Q
+java:S1128
+"4Remove this unused import 'java.util.stream.Stream'.(Û˜éî8—…¢•ê2
